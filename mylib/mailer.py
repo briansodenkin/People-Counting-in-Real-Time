@@ -1,11 +1,12 @@
 import smtplib, ssl
 
-class Mailer:
 
+class Mailer:
     """
     This script initiaties the email alert function.
 
     """
+
     def __init__(self):
         # Enter your email below. This email will be used to send alerts.
         # E.g., "email@gmail.com"

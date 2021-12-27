@@ -14,7 +14,7 @@ Threshold = 10
 # Threading ON/OFF
 Thread = False
 # Simple log to log the counting data
-Log = False
+Log = True
 # Auto run/Schedule the software to run at your desired time
 Scheduler = False
 # Auto stop the software after certain a time/hours
